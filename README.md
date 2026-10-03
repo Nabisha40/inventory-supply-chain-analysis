@@ -262,7 +262,7 @@ Inventory-And-Supply-Chain-Analysis/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Inventory-And-Supply-Chain-Analysis.git
+git clone https://github.com/Nabisha40/Inventory-And-Supply-Chain-Analysis.git
 ```
 
 ### Step 2: Open the Excel Dataset
@@ -286,10 +286,6 @@ If required, update the data source path in Power BI and refresh the dataset.
 ### Step 5: Explore the Dashboard
 
 Use the **Region** and **Category** slicers to interact with the dashboard and analyze inventory and supply chain performance.
-
-## 📸 Dashboard Preview
-
-![Inventory And Supply Chain Analysis Dashboard](Screenshots/dashboard-preview.png)
 
 ## 📄 Project Deliverables
 
@@ -353,7 +349,7 @@ The analysis can help businesses:
 
 ## 👨‍💻 Author
 
-**Kunal Rajput**
+**Nabisha**
 
 **Aspiring Data Analyst**
 
